@@ -27,4 +27,4 @@ The second-hand clothing market is highly competative and sometimes rather fickl
   <li>The two jupyter notebooks I used to clean, shape, process, and analyze my data, and </li>
   <li>My folder of pickles</li>
   <li>My presentation slides</li>
-<li>You may also view the fully animated version of my presentation [here](https://docs.google.com/presentation/d/1Weu8pGPX8lG76dcTdbbdjL9rM5xsVqIpC3XedbfjNMw/edit?usp=sharing)</li></ol>
+<li>You may also view the fully animated version of my presentation here:https://docs.google.com/presentation/d/1Weu8pGPX8lG76dcTdbbdjL9rM5xsVqIpC3XedbfjNMw/edit?usp=sharing</li></ol>
